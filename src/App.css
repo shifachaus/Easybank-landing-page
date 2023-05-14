@@ -1,0 +1,12 @@
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+@media (min-width: 375px) {
+}
