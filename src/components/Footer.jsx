@@ -107,7 +107,7 @@ const Footer = () => {
             Request Invite
           </a>
 
-          <p className="text">@Eackbank. All Rights Reserced</p>
+          <p className="text"> © Eackbank. All Rights Reserced</p>
         </div>
       </div>
     </footer>
